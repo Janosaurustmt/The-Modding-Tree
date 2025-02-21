@@ -1,6 +1,6 @@
 let modInfo = {
-	name: "The Modding Tree",
-	id: "modbase",
+	name: "The continenttree Tree",
+	id: "modbasessdfasasffadfdaffdafdafdafda",
 	pointsName: "points",
 	modFiles: ["Demo/layers/c.js", "Demo/layers/f.js", "Demo/layers/a.js", "Demo/demoTree.js"],
 
@@ -13,8 +13,8 @@ let modInfo = {
 
 // Set your version in num and name
 let VERSION = {
-	num: "2.6.6",
-	name: "Fixed Reality",
+	num: "0.0",
+	name: "nothing",
 }
 
 let changelog = `<h1>Changelog:</h1><br>
