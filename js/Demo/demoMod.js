@@ -1,5 +1,5 @@
 let modInfo = {
-	name: "The continenttree Tree",
+	name: "The continent Tree",
 	id: "modbasessdfasasffadfdaffdafdafdafda",
 	pointsName: "points",
 	modFiles: ["Demo/layers/c.js", "Demo/layers/f.js", "Demo/layers/a.js", "Demo/demoTree.js"],
